@@ -1,11 +1,8 @@
-# Getting Started with Create React App
+# Counter App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is simple counter app based on React framework <img src="screenshots/web-app-page.png"></img>
 
 ## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
